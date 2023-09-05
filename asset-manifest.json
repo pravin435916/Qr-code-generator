@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Qr-code-generator/static/css/main.f9c3cedf.css",
+    "main.js": "/Qr-code-generator/static/js/main.6cca348d.js",
+    "static/js/787.1dab2e5b.chunk.js": "/Qr-code-generator/static/js/787.1dab2e5b.chunk.js",
+    "static/media/vbg.jpg": "/Qr-code-generator/static/media/vbg.400dec354d6ff42ce42c.jpg",
+    "index.html": "/Qr-code-generator/index.html",
+    "main.f9c3cedf.css.map": "/Qr-code-generator/static/css/main.f9c3cedf.css.map",
+    "main.6cca348d.js.map": "/Qr-code-generator/static/js/main.6cca348d.js.map",
+    "787.1dab2e5b.chunk.js.map": "/Qr-code-generator/static/js/787.1dab2e5b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9c3cedf.css",
+    "static/js/main.6cca348d.js"
+  ]
+}
